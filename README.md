@@ -1,4 +1,4 @@
-# reviewwithsandeep.github.io
+# Movie Review
 
 ## Project Level:
 <div>
@@ -12,6 +12,6 @@
 
 ### It's a static website created in a very short time (1.5 hrs)
 <div>
-  Just to Brush up skills
+  Just to Brush up my skills
 </div>
   
